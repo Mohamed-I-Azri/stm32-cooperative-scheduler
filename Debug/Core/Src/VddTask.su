@@ -1,0 +1,8 @@
+../Core/Inc/Task.hpp:23:18:virtual void Task::init()	16	static
+../Core/Inc/Task.hpp:17:13:Task::~Task()	16	static
+../Core/Inc/Task.hpp:17:13:virtual Task::~Task()	16	static
+../Core/Src/VddTask.cpp:6:1:VddTask::VddTask(ADC_HandleTypeDef*, GPIO_TypeDef*, uint16_t, uint32_t)	32	static
+../Core/Src/VddTask.cpp:9:6:virtual void VddTask::init()	16	static
+../Core/Src/VddTask.cpp:13:6:virtual void VddTask::execute()	40	static
+../Core/Inc/VddTask.hpp:8:7:VddTask::~VddTask()	16	static
+../Core/Inc/VddTask.hpp:8:7:virtual VddTask::~VddTask()	16	static

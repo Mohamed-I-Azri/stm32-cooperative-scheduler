@@ -1,0 +1,8 @@
+../Core/Inc/Task.hpp:23:18:virtual void Task::init()	16	static
+../Core/Inc/Task.hpp:17:13:Task::~Task()	16	static
+../Core/Inc/Task.hpp:17:13:virtual Task::~Task()	16	static
+../Core/Src/CPULoadTask.cpp:4:1:CPULoadTask::CPULoadTask(Scheduler*, GPIO_TypeDef*, uint16_t, uint32_t)	32	static
+../Core/Src/CPULoadTask.cpp:7:6:virtual void CPULoadTask::init()	16	static
+../Core/Src/CPULoadTask.cpp:11:6:virtual void CPULoadTask::execute()	24	static
+../Core/Inc/CPULoadTask.hpp:8:7:CPULoadTask::~CPULoadTask()	16	static
+../Core/Inc/CPULoadTask.hpp:8:7:virtual CPULoadTask::~CPULoadTask()	16	static

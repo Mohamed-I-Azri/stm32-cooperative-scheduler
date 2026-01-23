@@ -1,0 +1,8 @@
+../Core/Inc/Task.hpp:23:18:virtual void Task::init()	1
+../Core/Inc/Task.hpp:17:13:Task::~Task()	1
+../Core/Inc/Task.hpp:17:13:virtual Task::~Task()	1
+../Core/Src/TempTask.cpp:7:1:TempTask::TempTask(ADC_HandleTypeDef*, GPIO_TypeDef*, uint16_t, uint32_t)	1
+../Core/Src/TempTask.cpp:10:6:virtual void TempTask::init()	1
+../Core/Src/TempTask.cpp:14:6:virtual void TempTask::execute()	6
+../Core/Inc/TempTask.hpp:8:7:TempTask::~TempTask()	1
+../Core/Inc/TempTask.hpp:8:7:virtual TempTask::~TempTask()	1

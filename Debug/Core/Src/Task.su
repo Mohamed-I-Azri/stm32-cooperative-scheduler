@@ -1,0 +1,7 @@
+../Core/Inc/Task.hpp:23:18:virtual void Task::init()	16	static
+../Core/Src/Task.cpp:4:1:Task::Task(const char*, uint32_t, uint8_t, GPIO_TypeDef*, uint16_t)	24	static
+../Core/Src/Task.cpp:9:6:void Task::ledOn()	16	static
+../Core/Src/Task.cpp:10:6:void Task::ledOff()	16	static
+../Core/Src/Task.cpp:11:6:void Task::ledToggle()	16	static
+../Core/Src/Task.cpp:13:6:void Task::ledPulseBlocking(uint32_t)	16	static
+../Core/Src/Task.cpp:19:10:uint32_t Task::runWrapper()	32	static
