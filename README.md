@@ -1,7 +1,7 @@
 # stm32-cooperative-scheduler
 
 A bare-metal cooperative task scheduler for the STM32F407-Discovery, written in C++.
-Designed around an object-oriented architecture — not an RTOS, no dynamic context switching.
+Designed around an object-oriented architecture.
 Tasks are plain C++ objects; the scheduler owns them and dispatches them by priority on each cycle.
 
 ## Architecture
